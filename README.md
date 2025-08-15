@@ -1,6 +1,9 @@
-# Ejercicios Básicos de HTML
+# Fundamentos de texto en HTML
 
 Este repositorio contiene una carpeta llamada "ejercicios" donde encotrarás un archivo por cada ejercicio a realziar. Cada ejercicio incluye pruebas automatizadas para autocorrección y calificación automática.
+
+## Objetivo
+Aprender a marcar una página de texto básica para darle estructura y significado, incluidos párrafos, encabezados, listas, efectos de énfasis y citas.
 
 ## Estructura del Proyecto
 
